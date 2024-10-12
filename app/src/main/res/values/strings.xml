@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mi Deporte</string>
+    <string name="tipo">Tipo:</string>
+
+    <string name="individual">Deporte individual</string>
+    <string name="pareja">Deporte en pareja</string>
+    <string name="grupal">Deporte grupal</string>
+
+    <string-array name="Individual">
+        <item>Salto de altura</item>
+        <item>Atletismo</item>
+        <item>Gimnasia</item>
+    </string-array>
+    <string-array name="Pareja">
+        <item>Pádel</item>
+        <item>Tenis</item>
+        <item>Squash</item>
+    </string-array>
+    <string-array name="Grupal">
+        <item>Fútbol</item>
+        <item>Rugby</item>
+        <item>Balonmano</item>
+    </string-array>
+</resources>
